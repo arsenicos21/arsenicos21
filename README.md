@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arsenicos21
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java, 1C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arseniy.north@gmail.com
 
